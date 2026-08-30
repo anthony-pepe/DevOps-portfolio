@@ -1,0 +1,13 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Operating System
+.DS_Store
+
+# Build outputs
+/build/
+/out/
+
+# Gradle build cache and temporary files
+.gradle/
